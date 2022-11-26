@@ -1,0 +1,30 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:papayawhip ;
+}
+
+body {
+    color: blue;
+}
+
+h1 {
+    color: #000;
+border: dashed black;
+text-align: center;
+}
+
+.dami {
+    color: black;
+}
+
+h2,h3,h4{
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-style: oblique;
+    color: black;
+    text-align: left;
+}
+
